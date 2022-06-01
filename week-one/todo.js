@@ -1,4 +1,3 @@
-
 //1번
 export const calculator = (presentDict) => {
 	/**todo */
