@@ -11,8 +11,7 @@ export const calculator = (presentDict) => {
 	return (answer);
 }
 
-const divisor = 3;
-const numberList = [3, 2, 4, 7, 9, 10, 12, 40];
+//2번
 export const getSumDivisible = (divisor, numberList) => {
 	/**todo */
 	let answer = 0;
